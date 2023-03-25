@@ -9,7 +9,7 @@ public class Equipo {
 	public Equipo(String nombre) {
 		this.nombre = nombre;
 	}
-	//Método
+//Método
 
 	public String getNombre() {
 		return nombre;
