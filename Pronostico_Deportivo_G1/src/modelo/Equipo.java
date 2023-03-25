@@ -3,12 +3,13 @@ package modelo;
 public class Equipo {
 	private String nombre;
 //Constructor
-	public Equipo() {
-	}
-
 	public Equipo(String nombre) {
-		this.nombre = nombre;
-	}
+	this.nombre = nombre;
+}
+
+	public Equipo() {
+}
+	
 //Método
 
 	public String getNombre() {
